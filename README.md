@@ -18,20 +18,20 @@
 
 [k-9](https://github.com/k9mail/k-9)
 
-[ImageBrowser](https://github.com/zhangyugehu/ImageBrowser)
+[ImageBrowser](https://github.com/JellyCai1995/ImageBrowser)
 
 ![ImageBrowser](https://camo.githubusercontent.com/1698e40b44bcca9b3d0e7bf8b3d185afebd97978/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f323039383338342d663937383633393365313265386465622e706e673f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970253743696d61676556696577322f322f772f31323430)
 
-[ZXingDemo](https://github.com/zhangyugehu/ZXingDemo)
+[ZXingGenerator](https://github.com/vivian8725118/ZXingGenerator)
 
-![ZXingDemo](https://github.com/vivian8725118/ZXingDemo/raw/master/art/S61128-17080029.jpg)
+![ZXingGenerator](https://github.com/vivian8725118/ZXingDemo/raw/master/art/S61128-17080029.jpg)
 
-[SwipeCaptcha](https://github.com/zhangyugehu/SwipeCaptcha)
+[SwipeCaptcha](https://github.com/mcxtzhang/SwipeCaptcha)
 
 ![SwipeCaptcha](https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966)
 
-[LolliPin](https://github.com/zhangyugehu/LolliPin)
-![LolliPin](https://github.com/zhangyugehu/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)
+[LolliPin](https://github.com/omadahealth/LolliPin)
+![LolliPin](https://github.com/omadahealth/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)
 
 [MyHearts](https://github.com/wuyinlei/MyHearts)
 ![MyHearts](https://camo.githubusercontent.com/2138870e8a71585d9a2b770280636a4e156a5360/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3030366a6347767a677731663933727069306630386a333075303168636471322e6a7067)
