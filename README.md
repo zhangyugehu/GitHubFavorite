@@ -54,3 +54,6 @@
 ![richeditor-android](https://github.com/wasabeef/richeditor-android/raw/master/art/demo2.gif)
 
 [Dex65536](https://github.com/mmin18/Dex65536)
+
+[PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
+![PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo1.gif)
