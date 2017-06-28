@@ -31,29 +31,40 @@
 ![SwipeCaptcha](https://camo.githubusercontent.com/b8f50f4047b3c1aedd077aea3d1f23079c83adc5/687474703a2f2f61632d6d686b65306b75762e636c6f7564646e2e636f6d2f37666362353836353365333538623965633030332e676966)
 
 [LolliPin](https://github.com/omadahealth/LolliPin)
+
 ![LolliPin](https://github.com/omadahealth/LolliPin/raw/master/app/src/main/res/raw/github_gif.gif)
 
 [MyHearts](https://github.com/wuyinlei/MyHearts)
+
 ![MyHearts](https://camo.githubusercontent.com/2138870e8a71585d9a2b770280636a4e156a5360/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f3030366a6347767a677731663933727069306630386a333075303168636471322e6a7067)
 
 [FastApp](https://github.com/closedevice/FastApp)
+
 ![FastApp](https://raw.githubusercontent.com/closedevice/FastApp/master/screenshots/gan.png)
 
 [GitHubPopular](https://github.com/crazycodeboy/GitHubPopular)
+
 ![GitHubPopular](https://raw.githubusercontent.com/crazycodeboy/GitHubPopular/master/resource/screenshot/GitHubPopular-1.jpg)
 
 [MoeMusic](https://github.com/cpacm/MoeMusic)
+
 ![MoeMusic](https://camo.githubusercontent.com/3540cdcd5c7db66fa39aad56b42e75aa1f414710/687474703a2f2f6f66726632306f6d732e626b742e636c6f7564646e2e636f6d2f62656174732e6a7067)
 
 [DylanStepCount](https://github.com/linglongxin24/DylanStepCount)
+
 ![DylanStepCount](https://github.com/linglongxin24/DylanStepCount/raw/master/screenshots/%E4%B8%BB%E9%A1%B5.jpg)
 
 [okhttputils](https://github.com/hongyangAndroid/okhttputils)
 
 [richeditor-android](https://github.com/wasabeef/richeditor-android)
+
 ![richeditor-android](https://github.com/wasabeef/richeditor-android/raw/master/art/demo2.gif)
 
 [Dex65536](https://github.com/mmin18/Dex65536)
 
 [PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip)
+
 ![PagerBottomTabStrip](https://github.com/tyzlmjj/PagerBottomTabStrip/raw/master/img/demo1.gif)
+
+
+[BlockCanary耗时分析神器](https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md)
