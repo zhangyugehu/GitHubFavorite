@@ -68,3 +68,7 @@
 
 
 [BlockCanary耗时分析神器](https://github.com/markzhai/AndroidPerformanceMonitor/blob/master/README_CN.md)
+
+[Highlight](https://github.com/hongyangAndroid/Highlight)
+
+![](https://github.com/hongyangAndroid/Highlight/raw/master/gif/high_light_demo.gif)
