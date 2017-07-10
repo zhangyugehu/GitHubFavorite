@@ -117,3 +117,6 @@
 ![](https://github.com/hongyangAndroid/Highlight/raw/master/gif/high_light_demo.gif)
 
 ---
+
+[二维码扫描](https://github.com/dm77/barcodescanner)
+
